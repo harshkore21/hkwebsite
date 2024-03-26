@@ -1,0 +1,23 @@
+SwiperJS
+Bootstrap 5
+AJAX Asynchronous JavaScript And XML.
+Password encryption (PASSWORD_BCRYPT is used to create new password hashes and encrypt it)
+
+SendGrid (to send verification code on mail)
+API Name: HarshKore
+API Key: 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
+
+
+Razorpay keys
+Key Id: rzp_test_9FghjxoUf1WIMf
+Key Secret: AzDVkouwK7xTgTyFxLqnFe0y
+
+
+temp paytm keys
+key: a1l&MRLBLOrmuDGD
+MID: tkOskL16930420179530
+
+
+mPDF(to generate pdf invoice)
+
+composer(it is a tool for dependency management in PHP)
