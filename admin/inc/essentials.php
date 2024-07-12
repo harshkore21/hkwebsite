@@ -17,8 +17,8 @@
     define('USERS_FOLDER','users/');
 
     // SendGrid API Key
-    define('SENDGRID_API_KEY',"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");
-    define('SENDGRID_EMAIL',"uccash6969@gmail.com");
+    define('SENDGRID_API_KEY',"key");
+    define('SENDGRID_EMAIL',"");
     define('SENDGRID_NAME',"Hotel Room Booking System");
 
     // Possible "booking status" values in db = pending, booked, payment failure, cancelled
