@@ -8,8 +8,8 @@
 */
 
 define('PAYTM_ENVIRONMENT', 'TEST'); // PROD  //TEST
-define('PAYTM_MERCHANT_KEY', 'UfnfTQdcfwHZiSma'); //Change this constant's value with Merchant key received from Paytm.
-define('PAYTM_MERCHANT_MID', 'UvaLxt93516792108659'); //Change this constant's value with MID (Merchant ID) received from Paytm.
+define('PAYTM_MERCHANT_KEY', 'key'); //Change this constant's value with Merchant key received from Paytm.
+define('PAYTM_MERCHANT_MID', 'key'); //Change this constant's value with MID (Merchant ID) received from Paytm.
 define('PAYTM_MERCHANT_WEBSITE', 'WEBSTAGING'); //Change this constant's value with Website name received from Paytm. //WEBSTAGING //DEFAULT
 define('INDUSTRY_TYPE_ID', 'Retail'); // change this constant with website industry type given by paytm
 define('CHANNEL_ID', 'WEB'); // change this constant with website channel type given by paytm
